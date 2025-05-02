@@ -28,8 +28,8 @@ note = {Accessed: [Insert date here]}
 }
 ```
 ## Installation
+Install the corresponding package according to `requirements.txt` and use DAIR.
 
-Please follow the instruction in [maskrcnn-benchmark](https://github.com/facebookresearch/maskrcnn-benchmark) to install and use DAIR.
 ## Example Usage
 An example of DAIR adapting from **DIOR** dataset to **SSDD** dataset is provided:
 1. Please download dataset [DIOR](https://aistudio.baidu.com/aistudio/datasetdetail/53045) and [SSDD](https://github.com/TianwenZhang0825/Official-SSDD/blob/main/README.md).
